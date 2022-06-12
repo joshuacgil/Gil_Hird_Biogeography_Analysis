@@ -1,0 +1,191 @@
+ID,Renamed,Sample_or_Control,SampleID,Site,County ,State,WA,NV,UT,KS,NJ,NY,CT,RI,Flyway,Atlantic,Central,Pacific,Date,Age,Sex,Latitude ,Longitude,UTM (universal transverse mercator),Notes,How Collected,Control
+31,442CHYU ,442,442CHYU ,Cedar Lake Chester,Middlesex ,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/24/2019,HY,U,41.39766,-72.49815,,,,C4_1
+32,446CAHYU,446,446CAHYU,Cedar Lake Chester,Middlesex ,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/24/2019,AHY,U,41.39766,-72.49815,,,,C4_1
+33,451CAHYU,451,451CAHYU,Cedar Lake Chester,Middlesex ,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/24/2019,AHY,U,41.39766,-72.49815,,,,C4_1
+34,453CAHYU,453,453CAHYU,Cedar Lake Chester,Middlesex ,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/24/2019,AHY,U,41.39766,-72.49815,,,,C4_1
+35,454CAHYU,454,454CAHYU,Cedar Lake Chester,Middlesex ,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/24/2019,AHY,U,41.39766,-72.49815,,,,C4_1
+46,381CAHYU,381,381CAHYU,EDAC Technologies,New Haven,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/19/2019,AHY,U,41.55185,-72.91991,,,,C3_1
+47,384CHYU,384,384CHYU,EDAC Technologies,New Haven,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/19/2019,HY,U,41.55185,-72.91991,,,,C3_1
+48,388CHYU,388,388CHYU,EDAC Technologies,New Haven,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/19/2019,HY,U,41.55185,-72.91991,,,,C3_1
+49,389CHYU,389,389CHYU,EDAC Technologies,New Haven,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/19/2019,HY,U,41.55185,-72.91991,,,,C3_1
+50,398CAHYU,398,398CAHYU,EDAC Technologies,New Haven,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/19/2019,AHY,U,41.55185,-72.91991,,,,C3_1
+86,483CAHYU,483,483CAHYU,Konica Minolta Business Solutions,Hartford ,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/26/2019,AHY,U,41.87607,-72.68423,,,,C4_1
+87,485CAHYU,485,485CAHYU,Konica Minolta Business Solutions,Hartford ,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/26/2019,AHY,U,41.87607,-72.68423,,,,C4_1
+88,489CAHYU,489,489CAHYU,Konica Minolta Business Solutions,Hartford ,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/26/2019,AHY,U,41.87607,-72.68423,,,,C4_1
+89,491CAHYU,491,491CAHYU,Konica Minolta Business Solutions,Hartford ,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/26/2019,AHY,U,41.87607,-72.68423,,,,C4_1
+90,495CAHYU,495,495CAHYU,Konica Minolta Business Solutions,Hartford ,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/26/2019,AHY,U,41.87607,-72.68423,,,,C4_1
+96,361CHYU,361,361CHYU,Lamberts Cove,New London,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/18/2019,HY,U,41.34546,-71.91696,,,,C3_1
+97,369CHYU,369,369CHYU,Lamberts Cove,New London,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/18/2019,HY,U,41.34546,-71.91696,,,,C3_1
+98,370CAHYU,370,370CAHYU,Lamberts Cove,New London,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/18/2019,AHY,U,41.34546,-71.91696,,,,C3_1
+99,373CAHYU,373,373CAHYU,Lamberts Cove,New London,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/18/2019,AHY,U,41.34546,-71.91696,,,,C3_1
+100,380CAHYU,380,380CAHYU,Lamberts Cove,New London,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/18/2019,AHY,U,41.34546,-71.91696,,,,C2_2
+116,401CAHYU,401,401CAHYU,Memorial Park Bristol ,Hartford,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/20/2019,AHY,U,41.66886,-72.93115,,,,C3_1
+117,402CHYU,402,402CHYU,Memorial Park Bristol ,Hartford,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/20/2019,HY,U,41.66886,-72.93115,,,,C3_1
+118,405CHYU,405,405CHYU,Memorial Park Bristol ,Hartford,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/20/2019,HY,U,41.66886,-72.93115,,,,C3_1
+119,408CHYU,408,408CHYU,Memorial Park Bristol ,Hartford,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/20/2019,HY,U,41.66886,-72.93115,,,,C3_1
+120,411CHYU,411,411CHYU,Memorial Park Bristol ,Hartford,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/20/2019,HY,U,41.66886,-72.93115,,,,C3_1
+142,362CAHYU,362,362CAHYU,Pequot Avenue,New London,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/18/2019,AHY,U,41.32239,-72.08855,,,,C4_1 
+143,364CAHYU,364,364CAHYU,Pequot Avenue,New London,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/18/2019,AHY,U,41.32239,-72.08855,,,,C4_1
+144,368CAHYU,368,368CAHYU,Pequot Avenue,New London,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/18/2019,AHY,U,41.32239,-72.08855,,,,C4_1
+145,372CAHYU,372,372CAHYU,Pequot Avenue,New London,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/18/2019,AHY,U,41.32239,-72.08855,,,,C4_1
+146,377CAHYU,377,377CAHYU,Pequot Avenue,New London,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/18/2019,AHY,U,41.32239,-72.08855,,,,C4_1
+157,461CUU,461,461CUU,Rotary Park Putnum,Windam,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/27/2019,U,U,41.91731,-71.91068,,,,C4_2
+158,463CUU,463,463CUU,Rotary Park Putnum,Windam,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/27/2019,U,U,41.91731,-71.91068,,,,C4_2
+159,464CUU,464,464CUU,Rotary Park Putnum,Windam,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/27/2019,U,U,41.91731,-71.91068,,,,C4_2
+160,470CUU,470,470CUU,Rotary Park Putnum,Windam,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/27/2019,U,U,41.91731,-71.91068,,,,C4_2
+161,480CUU,480,480CUU,Rotary Park Putnum,Windam,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/27/2019,U,U,41.91731,-71.91068,,,Most Likely AHY,C4_2
+183,481CHYU,481,481CHYU,Toland Country Club,Tolland,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/26/2019,HY,U,41.8028,-72.39482,,,,C4_1
+184,484CUU,484,484CUU,Toland Country Club,Tolland,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/26/2019,U,U,41.8028,-72.39482,,,Most Likely AHY,C4_1
+185,486CHYU,486,486CHYU,Toland Country Club,Tolland,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/26/2019,HY,U,41.8028,-72.39482,,,,C4_1
+186,488CUU,488,488CUU,Toland Country Club,Tolland,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/26/2019,U,U,41.8028,-72.39482,,,Most Likely AHY,C4_1
+187,490CUU,490,490CUU,Toland Country Club,Tolland,CT,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,Atlantic ,1.00,0.00,0.00,6/26/2019,U,U,41.8028,-72.39482,,,Most Likely AHY,C4_1
+11,254NHYM,254,254NHYM,Beesley's Point,Cape May ,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/26/2019,HY,M,39.287952,-74.628883,,,,C2_1
+12,255NHYM,255,255NHYM,Beesley's Point,Cape May ,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/26/2019,HY,M,39.287952,-74.628883,,,,C2_1
+13,256NAHYM,256,256NAHYM,Beesley's Point,Cape May ,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/26/2019,AHY,M,39.287952,-74.628883,,,,C2_1
+14,257NHYM,257,257NHYM,Beesley's Point,Cape May ,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/26/2019,HY,M,39.287952,-74.628883,,,,C2_1
+15,258NHYM,258,258NHYM,Beesley's Point,Cape May ,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/26/2019,HY,M,39.287952,-74.628883,,,,C2_1
+16,259NHYF,259,259NHYF,Beesley's Point,Cape May ,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/26/2019,HY,F,39.287952,-74.628883,,,,C2_1
+17,260NAHYF,260,260NAHYF,Beesley's Point,Cape May ,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/26/2019,AHY,F,39.287952,-74.628883,,,,C2_1
+61,249NHYF,249,249NHYF,Elmer Lake,Salem,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/24/2019,HY,F,39.594686,-75.165553,,,,C2_1
+62,250NHYM,250,250NHYM,Elmer Lake,Salem,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/24/2019,HY,M,39.594686,-75.165553,,,,C2_1
+63,251NHY,251,251NHY,Elmer Lake,Salem,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/24/2019,HY,F,39.594686,-75.165553,,,,C2_1
+64,252NAHYF,252,252NAHYF,Elmer Lake,Salem,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/24/2019,AHY,F,39.594686,-75.165553,,,,C2_1
+70,237NHYM,237,237NHYM,Hackettstown,Warren,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/19/2019,HY,M,40.841379,-74.833059,,,,C2_1
+71,238NHYF,238,238NHYF,Hackettstown,Warren,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/19/2019,HY,F,40.841379,-74.833059,,,,C2_1
+72,239NAHYM,239,239NAHYM,Hackettstown,Warren,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/19/2019,AHY,M,40.841379,-74.833059,,,,C2_1
+73,240NAHYM,240,240NAHYM,Hackettstown,Warren,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/19/2019,AHY,M,40.841379,-74.833059,,,,C2_1
+74,241NAHYF,241,241NAHYF,Hackettstown,Warren,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/19/2019,AHY,F,40.841379,-74.833059,,,,C2_1
+75,242NHYF,242,242NHYF,Hackettstown,Warren,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/19/2019,HY,F,40.841379,-74.833059,,,,C2_1
+136,243NHYF,243,243NHYF,Otto Pehle,Bergen,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/20/2019,HY,F,40.917125,-74.090061,,,,C2_1
+137,244NHYF,244,244NHYF,Otto Pehle,Bergen,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/20/2019,HY,F,40.917125,-74.090061,,,,C2_1
+138,245NHYM,245,245NHYM,Otto Pehle,Bergen,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/20/2019,HY,M,40.917125,-74.090061,,,,C2_1
+139,246NHYM,246,246NHYM,Otto Pehle,Bergen,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/20/2019,HY,M,40.917125,-74.090061,,,,C2_1
+140,247NAHYM,247,247NAHYM,Otto Pehle,Bergen,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/20/2019,AHY,M,40.917125,-74.090061,,,,C2_1
+141,248NHYF,248,248NHYF,Otto Pehle,Bergen,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/20/2019,HY,F,40.917125,-74.090061,,,,C2_1
+177,231NHYM,231,231NHYM,Stanton Station,Hunterdon,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/18/2019,HY,M,40.580925,-74.891371,,,,C1_2
+178,232NHYM,232,232NHYM,Stanton Station,Hunterdon,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/18/2019,HY,M,40.580925,-74.891371,,,,C1_2
+179,233NHYM,233,233NHYM,Stanton Station,Hunterdon,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/18/2019,HY,M,40.580925,-74.891371,,,,C2_1
+180,234NAHYM,234,234NAHYM,Stanton Station,Hunterdon,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/18/2019,AHY,M,40.580925,-74.891371,,,,C2_1
+181,235AHYF,235,235AHYF,Stanton Station,Hunterdon,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/18/2019,AHY,F,40.580925,-74.891371,,,,C2_1
+182,236NAHYF,236,236NAHYF,Stanton Station,Hunterdon,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,6/18/2019,AHY,F,40.580925,-74.891371,,,,C2_1
+198,253NUU,253,253NUU,U,U,NJ,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,,U,U,,,,,,C2_1
+1,g2NHYU,502,g2NHYU,Auction Barn Resturant,Washington,NY,0.00,0.00,0.00,0.00,0.00,1.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,7/3/2019,HY,U,43.16325942,-73.50411611,,,,C4_2
+2,g4NUU,504,g4NUU,Auction Barn Resturant,Washington,NY,0.00,0.00,0.00,0.00,0.00,1.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,7/3/2019,U,U,43.16325942,-73.50411611,,,,C4_2
+3,g5NUU,505,g5NUU,Auction Barn Resturant,Washington,NY,0.00,0.00,0.00,0.00,0.00,1.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,7/3/2019,U,U,43.16325942,-73.50411611,,,,C4_2
+4,g6NUU,506,g6NUU,Auction Barn Resturant,Washington,NY,0.00,0.00,0.00,0.00,0.00,1.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,7/3/2019,U,U,43.16325942,-73.50411611,,,,C4_2
+5,g16NHYU,516,g16NHYU,Auction Barn Resturant,Washington,NY,0.00,0.00,0.00,0.00,0.00,1.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,7/3/2019,HY,U,43.16325942,-73.50411611,,,,C4_2
+41,g7NUU,507,g7NUU,Cossayuna Lake,Washington,NY,0.00,0.00,0.00,0.00,0.00,1.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,7/3/2019,U,U,43.20120685,-73.42578187,,,,C4_1
+42,g22NUU,522,g22NUU,Cossayuna Lake,Washington,NY,0.00,0.00,0.00,0.00,0.00,1.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,7/3/2019,U,U,43.20120685,-73.42578187,,,,C4_1
+43,g24NUU,524,g24NUU,Cossayuna Lake,Washington,NY,0.00,0.00,0.00,0.00,0.00,1.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,7/3/2019,U,U,43.20120685,-73.42578187,,,,C4_1
+44,g27NUU,527,g27NUU,Cossayuna Lake,Washington,NY,0.00,0.00,0.00,0.00,0.00,1.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,7/3/2019,U,U,43.20120685,-73.42578187,,,,C4_1
+45,g28NAHYU,528,g28NAHYU,Cossayuna Lake,Washington,NY,0.00,0.00,0.00,0.00,0.00,1.00,0.00,0.00,Atlantic ,1.00,0.00,0.00,7/3/2019,AHY,U,43.20120685,-73.42578187,,,Was on hot car for 10 ish minutes,C4_1
+126,374RHYU,374,374RHYU,Narrow River Fishing Access ,Washington,RI,0.00,0.00,0.00,0.00,0.00,0.00,0.00,1.00,Atlantic ,1.00,0.00,0.00,6/21/2019,HY,U,41.46731,-71.45036,,,,C4_2
+127,376RHYU,376,376RHYU,Narrow River Fishing Access ,Washington,RI,0.00,0.00,0.00,0.00,0.00,0.00,0.00,1.00,Atlantic ,1.00,0.00,0.00,6/21/2019,HY,U,41.46731,-71.45036,,,,C4_2
+128,423RAHYU,423,423RAHYU,Narrow River Fishing Access ,Washington,RI,0.00,0.00,0.00,0.00,0.00,0.00,0.00,1.00,Atlantic ,1.00,0.00,0.00,6/21/2019,AHY,U,41.46731,-71.45036,,,,C4_2
+129,432RAHYU,432,432RAHYU,Narrow River Fishing Access ,Washington,RI,0.00,0.00,0.00,0.00,0.00,0.00,0.00,1.00,Atlantic ,1.00,0.00,0.00,6/21/2019,AHY,U,41.46731,-71.45036,,,,C4_2
+130,437RAHYU,437,437RAHYU,Narrow River Fishing Access ,Washington,RI,0.00,0.00,0.00,0.00,0.00,0.00,0.00,1.00,Atlantic ,1.00,0.00,0.00,6/21/2019,AHY,U,41.46731,-71.45036,,,,C4_2
+106,154KUU,154,154KUU,Meadow Lake,Reno,KS,0.00,0.00,0.00,1.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/25/2019,U,U,38.082158,-97.868509,,,,C1_2
+107,160KUU,160,160KUU,Meadow Lake,Reno,KS,0.00,0.00,0.00,1.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/25/2019,U,U,38.082158,-97.868509,,,,C1_2
+108,165KUU,165,165KUU,Meadow Lake,Reno,KS,0.00,0.00,0.00,1.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/25/2019,U,U,38.082158,-97.868509,,,,C1_2
+109,168KUU,168,168KUU,Meadow Lake,Reno,KS,0.00,0.00,0.00,1.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/25/2019,U,U,38.082158,-97.868509,,,,C1_2
+110,190KUU,190,190KUU,Meadow Lake,Reno,KS,0.00,0.00,0.00,1.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/25/2019,U,U,38.082158,-97.868509,,,,C1_2
+131,167KAHYM,167,167KAHYM,Ottawa State Lake,Ottawa,KS,0.00,0.00,0.00,1.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/26/2019,AHY,M,39.10955,-97.566589,,,,C1_2
+132,170KAHYF,170,170KAHYF,Ottawa State Lake,Ottawa,KS,0.00,0.00,0.00,1.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/25/2019,AHY,F,39.10955,-97.566589,,,,C1_2
+133,171KHYF,171,171KHYF,Ottawa State Lake,Ottawa,KS,0.00,0.00,0.00,1.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/26/2019,HY,F,39.10955,-97.566589,,,,C1_2
+134,188KAHYM,188,188KAHYM,Ottawa State Lake,Ottawa,KS,0.00,0.00,0.00,1.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/26/2019,AHY,M,39.10955,-97.566589,,,,C1_2
+135,193KHYM,193,193KHYM,Ottawa State Lake,Ottawa,KS,0.00,0.00,0.00,1.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/26/2019,HY,M,39.10955,-97.566589,,,,C1_2
+188,153KUU,153,153KUU,Wilson Reservoir,Russell,KS,0.00,0.00,0.00,1.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/26/2019,U,U,38.93589,-98.49788,,,,C1_2
+189,157KUU,157,157KUU,Wilson Reservoir,Russell,KS,0.00,0.00,0.00,1.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/26/2019,U,U,38.93589,-98.49788,,,,C1_2
+190,159KUU,159,159KUU,Wilson Reservoir,Russell,KS,0.00,0.00,0.00,1.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/26/2019,U,U,38.93589,-98.49788,,,,C1_2
+191,163KUU,163,163KUU,Wilson Reservoir,Russell,KS,0.00,0.00,0.00,1.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/26/2019,U,U,38.93589,-98.49788,,,,C1_2
+192,169KUU,169,169KUU,Wilson Reservoir,Russell,KS,0.00,0.00,0.00,1.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/26/2019,U,U,38.93589,-98.49788,,,,C1_2
+6,21UHYF,21,21UHYF,Bear River Bay,Box Elder County,UT,0.00,0.00,1.00,0.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/12/2019,HY,F,41.5077,-112.0691,,These were in the front office for some time might be over the 30 days :/,,C1_1
+7,23UHYF,23,23UHYF,Bear River Bay,Box Elder County,UT,0.00,0.00,1.00,0.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/12/2019,HY,F,41.5077,-112.0691,,These were in the front office for some time might be over the 30 days :/,,C1_1
+8,24UAHYM,24,24UAHYM,Bear River Bay,Box Elder County,UT,0.00,0.00,1.00,0.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/12/2019,AHY,M,41.5077,-112.0691,,These were in the front office for some time might be over the 30 days :/,,C1_1
+9,25UAHYM,25,25UAHYM,Bear River Bay,Box Elder County,UT,0.00,0.00,1.00,0.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/12/2019,HY,M,41.5077,-112.0691,,These were in the front office for some time might be over the 30 days :/,,C1_1
+10,26UAHYF,26,26UAHYF,Bear River Bay,Box Elder County,UT,0.00,0.00,1.00,0.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/12/2019,AHY,F,41.5077,-112.0691,,These were in the front office for some time might be over the 30 days :/,,C1_1
+147,11UAHYF,11,11UAHYF,Promontory,Box Elder County,UT,0.00,0.00,1.00,0.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/11/2019,AHY,F,41.6198,-112.5468,,These were in the front office for some time might be over the 30 days :/,,C1_1
+148,12UAHYM,12,12UAHYM,Promontory,Box Elder County,UT,0.00,0.00,1.00,0.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/11/2019,AHY,M,41.6198,-112.5468,,These were in the front office for some time might be over the 30 days :/,,C1_1
+149,13UAHYM,13,13UAHYM,Promontory,Box Elder County,UT,0.00,0.00,1.00,0.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/11/2019,AHY,M,41.6198,-112.5468,,These were in the front office for some time might be over the 30 days :/,,C1_1
+150,15UAHYM,15,15UAHYM,Promontory,Box Elder County,UT,0.00,0.00,1.00,0.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/11/2019,AHY,M,41.6198,-112.5468,,These were in the front office for some time might be over the 30 days :/,,C1_1
+151,17UAHYF,17,17UAHYF,Promontory,Box Elder County,UT,0.00,0.00,1.00,0.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,6/11/2019,AHY,F,41.6198,-112.5468,,These were in the front office for some time might be over the 30 days :/,,C1_1
+172,1UHYF,Sample,1UHYF,St. George,Washington,UT,0.00,0.00,1.00,0.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,5/30/2019,HY,F,37.0965,-113.5684,,These were in the front office for some time might be over the 30 days :/,,C1_1
+173,2UHYM,Sample,2UHYM,St. George,Washington,UT,0.00,0.00,1.00,0.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,5/30/2019,HY,M,37.0965,-113.5684,,These were in the front office for some time might be over the 30 days :/,,C1_1
+174,3UAHYF,Sample,3UAHYF,St. George,Washington,UT,0.00,0.00,1.00,0.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,5/30/2019,AHY,F,37.0965,-113.5684,,These were in the front office for some time might be over the 30 days :/,,C1_1
+175,4UHYF,Sample,4UHYF,St. George,Washington,UT,0.00,0.00,1.00,0.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,5/30/2019,HY,F,37.0965,-113.5684,,These were in the front office for some time might be over the 30 days :/,,C1_1
+176,5UAHYM,Sample,5UAHYM,St. George,Washington,UT,0.00,0.00,1.00,0.00,0.00,0.00,0.00,0.00,Central,0.00,1.00,0.00,5/30/2019,AHY,M,37.0965,-113.5684,,These were in the front office for some time might be over the 30 days :/,,C1_1
+51,90NAHYU,90,90NAHYU,Edgewood Lake Tahoe,Douglas ,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/6/2019,AHY,U,39.0968,-120.0324,,The Age wasn't recorded but they said it was most likely all adults that they did,,C1_1
+52,91NAHYU,91,91NAHYU,Edgewood Lake Tahoe,Douglas ,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/6/2019,AHY,U,39.0968,-120.0324,,The Age wasn't recorded but they said it was most likely all adults that they did,,C1_1
+53,92NAHYU,92,92NAHYU,Edgewood Lake Tahoe,Douglas ,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/6/2019,AHY,U,39.0968,-120.0324,,The Age wasn't recorded but they said it was most likely all adults that they did,,C1_1
+54,93NAHYU,93,93NAHYU,Edgewood Lake Tahoe,Douglas ,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/6/2019,AHY,U,39.0968,-120.0324,,The Age wasn't recorded but they said it was most likely all adults that they did,,C1_1
+55,94NAHYU,94,94NAHYU,Edgewood Lake Tahoe,Douglas ,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/6/2019,AHY,U,39.0968,-120.0324,,The Age wasn't recorded but they said it was most likely all adults that they did,,C1_1
+76,61NAHYU,61,61NAHYU,Idlewild Parke,Washoe,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/3/2019,AHY,U,39.5218,-119.833,,The Age wasn't recorded but they said it was most likely all adults that they did,,C1_1
+77,62NAHYU,62,62NAHYU,Idlewild Parke,Washoe,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/3/2019,AHY,U,39.5218,-119.833,,The Age wasn't recorded but they said it was most likely all adults that they did,,C1_1
+78,63NAHYU,63,63NAHYU,Idlewild Parke,Washoe,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/3/2019,AHY,U,39.5218,-119.833,,The Age wasn't recorded but they said it was most likely all adults that they did,,C1_1
+79,64NAHYU,64,64NAHYU,Idlewild Parke,Washoe,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/3/2019,AHY,U,39.5218,-119.833,,The Age wasn't recorded but they said it was most likely all adults that they did,,C1_1
+80,65NAHYU,65,65NAHYU,Idlewild Parke,Washoe,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/3/2019,AHY,U,39.5218,-119.833,,The Age wasn't recorded but they said it was most likely all adults that they did,,C1_1
+101,66NAHYU,66,66NAHYU,Manzanita Lake UNR,Washoe,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/3/2019,AHY,U,39.5374,-119.8155,,,The Age wasn't recorded but they said it was most likely all adults that they did,C3_1
+102,67NAHYU,67,67NAHYU,Manzanita Lake UNR,Washoe,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/3/2019,AHY,U,39.5374,-119.8155,,,The Age wasn't recorded but they said it was most likely all adults that they did,C3_1
+103,68NAHYU,68,68NAHYU,Manzanita Lake UNR,Washoe,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/3/2019,AHY,U,39.5374,-119.8155,,,The Age wasn't recorded but they said it was most likely all adults that they did,C3_1
+104,69NAHYU,69,69NAHYU,Manzanita Lake UNR,Washoe,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/3/2019,AHY,U,39.5374,-119.8155,,,The Age wasn't recorded but they said it was most likely all adults that they did,C3_1
+105,70NAHYU,70,70NAHYU,Manzanita Lake UNR,Washoe,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/3/2019,AHY,U,39.5374,-119.8155,,,The Age wasn't recorded but they said it was most likely all adults that they did,C3_1
+162,83NAHYU,83,83NAHYU,Silver Oak Golf Course,Carson City,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/5/2019,AHY,U,39.1914,-119.7791,,The Age wasn't recorded but they said it was most likely all adults that they did,,C1_1
+163,84NAHYU,84,84NAHYU,Silver Oak Golf Course,Carson City,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/5/2019,AHY,U,39.1914,-119.7791,,The Age wasn't recorded but they said it was most likely all adults that they did,,C1_1
+164,85NAHYU,85,85NAHYU,Silver Oak Golf Course,Carson City,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/5/2019,AHY,U,39.1914,-119.7791,,The Age wasn't recorded but they said it was most likely all adults that they did,,C1_1
+165,86NAHYU,86,86NAHYU,Silver Oak Golf Course,Carson City,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/5/2019,AHY,U,39.1914,-119.7791,,The Age wasn't recorded but they said it was most likely all adults that they did,,C1_1
+166,87NAHYU,87,87NAHYU,Silver Oak Golf Course,Carson City,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/5/2019,AHY,U,39.1914,-119.7791,,The Age wasn't recorded but they said it was most likely all adults that they did,,C1_1
+167,96NAHYU,96,96NAHYU,Sparks MaRhode Islandna,Washoe,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/10/2019,AHY,U,39.5348,-119.7306,,The Age wasn't recorded but they said it was most likely all adults that they did,,C1_2
+168,97NAHYU,97,97NAHYU,Sparks MaRhode Islandna,Washoe,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/10/2019,AHY,U,39.5348,-119.7306,,The Age wasn't recorded but they said it was most likely all adults that they did,,C1_2
+169,98NAHYU,98,98NAHYU,Sparks MaRhode Islandna,Washoe,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/10/2019,AHY,U,39.5348,-119.7306,,The Age wasn't recorded but they said it was most likely all adults that they did,,C1_2
+170,99NAHYU,99,99NAHYU,Sparks MaRhode Islandna,Washoe,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/10/2019,AHY,U,39.5348,-119.7306,,The Age wasn't recorded but they said it was most likely all adults that they did,,C1_2
+171,100NAHYU,100,100NAHYU,Sparks MaRhode Islandna,Washoe,Nevada,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/10/2019,AHY,U,39.5348,-119.7306,,The Age wasn't recorded but they said it was most likely all adults that they did,,C1_2
+18,266WHYM,266,266WHYM,Burbank,Walla,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/20/2019,HY,M,46.214544,-119.014618,"46.214544, -119.014618",Eastern WA,During sorting by age and/or sex during banding activities,C3_2
+19,268WHYF,268,268WHYF,Burbank,Walla,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/20/2019,HY,F,46.214544,-119.014618,"46.214544, -119.014618",Eastern WA,During sorting by age and/or sex during banding activities,C3_2
+20,269WAHYM,269,269WAHYM,Burbank,Walla,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/20/2019,AHY,M,46.214544,-119.014618,"46.214544, -119.014618",Eastern WA,During sorting by age and/or sex during banding activities,C3_2
+21,270WAHYF,270,270WAHYF,Burbank,Walla,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/20/2019,AHY,F,46.214544,-119.014618,"46.214544, -119.014618",Eastern WA,During sorting by age and/or sex during banding activities,C3_2
+22,271WAHYM,271,271WAHYM,Burbank,Walla,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/20/2019,AHY,M,46.214544,-119.014618,"46.214544, -119.014618",Eastern WA,During sorting by age and/or sex during banding activities,C3_2
+36,289WHYU,289,289WHYU,Colville,Stevens,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/27/2019,HY,U,48.420014,-117.662405,"48.420014, -117.662405",Eastern WA,During sorting by age and/or sex during banding activities,C3_2
+37,293WHYU,293,293WHYU,Colville,Stevens,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/27/2019,HY,U,48.420014,-117.662405,"48.420014, -117.662405",Eastern WA,During sorting by age and/or sex during banding activities,C3_2
+38,294WAHYU,294,294WAHYU,Colville,Stevens,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/27/2019,AHY,U,48.420014,-117.662405,"48.420014, -117.662405",Eastern WA,During sorting by age and/or sex during banding activities,C3_2
+39,295WAHYU,295,295WAHYU,Colville,Stevens,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/27/2019,AHY,U,48.420014,-117.662405,"48.420014, -117.662405",Eastern WA,During sorting by age and/or sex during banding activities,C3_2
+40,296WAHYU,296,296WAHYU,Colville,Stevens,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/27/2019,AHY,U,48.420014,-117.662405,"48.420014, -117.662405",Eastern WA,During sorting by age and/or sex during banding activities,C3_2
+56,314WHYU,314,314WHYU,Ellensburg,Kittitas,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/1/2019,HY,U,46.940958,-120.50292,"46.940958, -120.502920",Eastern WA,During sorting by age and/or sex during banding activities,C2_1
+57,315WHYU,315,315WHYU,Ellensburg,Kittitas,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/1/2019,HY,U,46.940958,-120.50292,"46.940958, -120.502920",Eastern WA,During sorting by age and/or sex during banding activities,C2_1
+58,316WHYU,316,316WHYU,Ellensburg,Kittitas,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/1/2019,HY,U,46.940958,-120.50292,"46.940958, -120.502920",Eastern WA,During sorting by age and/or sex during banding activities,C2_2
+59,317WAHYU,317,317WAHYU,Ellensburg,Kittitas,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/1/2019,AHY,U,46.940958,-120.50292,"46.940958, -120.502920",Eastern WA,During sorting by age and/or sex during banding activities,C2_2
+60,318WAHYU,318,318WAHYU,Ellensburg,Kittitas,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/1/2019,AHY,U,46.940958,-120.50292,"46.940958, -120.502920",Eastern WA,During sorting by age and/or sex during banding activities,C2_2
+65,342WUU,342,342WUU,Ferndale,Whatcom,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/12/2019,U,U,48.848258,-122.690609,"48.858258, -122.690609",Western WA,From loafing area post-banding,C3_2
+66,343WUU,343,343WUU,Ferndale,Whatcom,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/12/2019,U,U,48.848258,-122.690609,"48.858258, -122.690609",Western WA,From loafing area post-banding,C3_2
+67,344WUU ,344,344WUU ,Ferndale,Whatcom,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/12/2019,U,U,48.848258,-122.690609,"48.858258, -122.690609",Western WA,From loafing area post-banding,C3_2
+68,345WUU,345,345WUU,Ferndale,Whatcom,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/12/2019,U,U,48.848258,-122.690609,"48.858258, -122.690609",Western WA,From loafing area post-banding,C3_2
+69,346WUU,346,346WUU,Ferndale,Whatcom,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/12/2019,U,U,48.848258,-122.690609,"48.858258, -122.690609",Western WA,From loafing area post-banding,C3_2
+81,261WHYM,261,261WHYM,Kennewick,Benton,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/20/2019,HY,M,46.220096,-119.1433,"46.220096, -119.143300",Eastern WA,During sorting by age and/or sex during banding activities,C2_1
+82,262WHYF,262,262WHYF,Kennewick,Benton,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/20/2019,HY,F,46.220096,-119.1433,"46.220096, -119.143300",Eastern WA,During sorting by age and/or sex during banding activities,C2_1
+83,263WHYF,263,263WHYF,Kennewick,Benton,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/20/2019,HY,F,46.220096,-119.1433,"46.220096, -119.143300",Eastern WA,During sorting by age and/or sex during banding activities,C2_1
+84,264WHYF,264,264WHYF,Kennewick,Benton,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/20/2019,HY,F,46.220096,-119.1433,"46.220096, -119.143300",Eastern WA,During sorting by age and/or sex during banding activities,C2_1
+85,265WHYM,265,265WHYM,Kennewick,Benton,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/20/2019,HY,M,46.220096,-119.1433,"46.220096, -119.143300",Eastern WA,During sorting by age and/or sex during banding activities,C2_1
+91,325WAHYU,325,325WAHYU,Lake Tapps,Pierce ,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/10/2019,AHY,U,47.227917,-122.16134,"47.227917, -122.161340",Western WA,During sorting by age and/or sex during banding activities,C2_2
+92,326WAHYU,326,326WAHYU,Lake Tapps,Pierce ,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/10/2019,AHY,U,47.227917,-122.16134,"47.227917, -122.161340",Western WA,During sorting by age and/or sex during banding activities,C2_2
+93,327WAHYU,327,327WAHYU,Lake Tapps,Pierce ,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/10/2019,AHY,U,47.227917,-122.16134,"47.227917, -122.161340",Western WA,During sorting by age and/or sex during banding activities,C2_2
+94,328WAHYU,328,328WAHYU,Lake Tapps,Pierce ,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/10/2019,AHY,U,47.227917,-122.16134,"47.227917, -122.161340",Western WA,During sorting by age and/or sex during banding activities,C2_2
+95,329WAHYU,329,329WAHYU,Lake Tapps,Pierce ,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/10/2019,AHY,U,47.227917,-122.16134,"47.227917, -122.161340",Western WA,During sorting by age and/or sex during banding activities,C2_2
+111,300WHYU,300,300WHYU,Medical Lake,Spokane,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/28/2019,HY,U,47.517567,-117.693009,"47.517567, -117.693009",Eastern WA,During sorting by age and/or sex during banding activities,C3_2
+112,301WHYU,301,301WHYU,Medical Lake,Spokane,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/28/2019,HY,U,47.517567,-117.693009,"47.517567, -117.693009",Eastern WA,During sorting by age and/or sex during banding activities,C3_2
+113,304WAHYU,304,304WAHYU,Medical Lake,Spokane,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/28/2019,AHY,U,47.517567,-117.693009,"47.517567, -117.693009",Eastern WA,During sorting by age and/or sex during banding activities,C3_2
+114,305WAHYU,305,305WAHYU,Medical Lake,Spokane,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/28/2019,AHY,U,47.517567,-117.693009,"47.517567, -117.693009",Eastern WA,During sorting by age and/or sex during banding activities,C3_2
+115,306WAHYU,306,306WAHYU,Medical Lake,Spokane,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/28/2019,AHY,U,47.517567,-117.693009,"47.517567, -117.693009",Eastern WA,During sorting by age and/or sex during banding activities,C4_1 
+121,302WHYU,302,302WHYU,Moses Lake,Grant,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/2/2019,HY,U,47.107676,-119.284627,"47.107676, -119.284627",Eastern WA,During sorting by age and/or sex during banding activities,C2_1
+122,303WHYU,303,303WHYU,Moses Lake,Grant,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/2/2019,HY,U,47.107676,-119.284627,"47.107676, -119.284627",Eastern WA,During sorting by age and/or sex during banding activities,C2_1
+123,310WHYU,310,310WHYU,Moses Lake,Grant,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/2/2019,HY,U,47.107676,-119.284627,"47.107676, -119.284627",Eastern WA,During sorting by age and/or sex during banding activities,C2_1
+124,311WHYU,311,311WHYU,Moses Lake,Grant,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/2/2019,HY,U,47.107676,-119.284627,"47.107676, -119.284627",Eastern WA,During sorting by age and/or sex during banding activities,C2_1
+125,312WHYU,312,312WHYU,Moses Lake,Grant,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/2/2019,HY,U,47.107676,-119.284627,"47.107676, -119.284627",Eastern WA,During sorting by age and/or sex during banding activities,C2_1
+152,351WUU,351,351WUU,Rimrock,Yakima,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/16/2019,U,U,46.640106,-121.123863,"46.640106, -121.123863",Western WA,Following family groups as they grazed shoreline,C3_1
+153,352WUU,352,352WUU,Rimrock,Yakima,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/16/2019,U,U,46.640106,-121.123863,"46.640106, -121.123863",Western WA,Following family groups as they grazed shoreline,C3_1
+154,353WUU ,353,353WUU ,Rimrock,Yakima,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/16/2019,U,U,46.640106,-121.123863,"46.640106, -121.123863",Western WA,Following family groups as they grazed shoreline,C3_1
+155,354WUU ,354,354WUU ,Rimrock,Yakima,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/16/2019,U,U,46.640106,-121.123863,"46.640106, -121.123863",Western WA,Following family groups as they grazed shoreline,C3_1
+156,355WUU ,355,355WUU ,Rimrock,Yakima,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,7/16/2019,U,U,46.640106,-121.123863,"46.640106, -121.123863",Western WA,Following family groups as they grazed shoreline,C3_1
+193,276WHYU,276,276WHYU,Yakima,Yakima,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/21/2019,HY,U,46.600776,-120.475086,"46.600776, -120.475086",Eastern WA,Following family groups as they grazed in the park,C3_1
+194,277WHYU ,277,277WHYU ,Yakima,Yakima,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/21/2019,HY,U,46.600776,-120.475086,"46.600776, -120.475086",Eastern WA,Following family groups as they grazed in the park,C3_2 
+195,278WAHYU,278,278WAHYU,Yakima,Yakima,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/21/2019,AHY,U,46.600776,-120.475086,"46.600776, -120.475086",Eastern WA,Following family groups as they grazed in the park,C3_2
+196,279WAHYU ,279,279WAHYU ,Yakima,Yakima,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/21/2019,AHY,U,46.600776,-120.475086,"46.600776, -120.475086",Eastern WA,Following family groups as they grazed in the park,C3_2
+197,280WAHYU,280,280WAHYU,Yakima,Yakima,WA,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pacific,0.00,0.00,1.00,6/21/2019,AHY,U,46.600776,-120.475086,"46.600776, -120.475086",Eastern WA,Following family groups as they grazed in the park,C3_2
