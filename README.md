@@ -7,4 +7,4 @@ Herein contains:
   
   2) Jupyter Notebook with Python code used for supervised machine learning model used for the predictions of sampling location using taxnomic data.
   
-  3) Example file for machine learning code to show proper file format before using Jupyter Notebook script
+  3) Example files for machine learning code to show proper file format before using Jupyter Notebook script including the metadata and taxa relative abundance
